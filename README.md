@@ -1,4 +1,4 @@
-# ARCADIUS
+# ARCADEOUS
 
 **An arcade management game.** Take the lease on a boarded unit, put your name over the door,
 licence the machines, and open the doors.
@@ -9,7 +9,7 @@ licence the machines, and open the doors.
 
 ## Download
 
-[![This beta](https://img.shields.io/github/downloads/yodahlorian/arcadius/latest/total?label=this%20beta&color=f0b429)](../../releases/latest)
+[![This beta](https://img.shields.io/github/downloads/yodahlorian/arcadeous/latest/total?label=this%20beta&color=f0b429)](../../releases/latest)
 [![Earlier betas](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyodahlorian%2Farcadius%2Fmain%2Fdownloads.json&query=%24.retired&label=earlier%20betas&color=6a7f99)](downloads.json)
 
 The playable beta is on the [**Releases**](../../releases) page — a single Windows `.exe`,
@@ -25,13 +25,13 @@ no installer.
 - **Rearrange the floor whenever you like** — pick a placed cabinet back up and set it down
   somewhere else, free
 - A wall radio with **six house stations of original music**, or drop your own `.mp3` / `.ogg`
-  into your `Music\Arcadius` folder and tune to those instead
+  into your `Music\Arcadeous` folder and tune to those instead
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
 ## What changed in 0.11.26
 
-**Play it on a controller.** Arcadius now supports gamepads natively, ahead of Steam Deck.
+**Play it on a controller.** Arcadeous now supports gamepads natively, ahead of Steam Deck.
 
 - **Walk the floor on a pad:** left stick moves, right stick looks, A uses whatever you are facing, B backs out,
   the View button opens the build menu, L3 sprints and R3 crouches
@@ -329,7 +329,7 @@ broken part are all seated properly.
 used — had a name, an instruction and a reward, and nothing in the game ever completed it. It does
 now, and the used machines you buy are remembered so it knows which repair counts.
 
-**Naming your arcade "Arcadius" works.** It is the name already on the fascia, so typing it did
+**Naming your arcade "Arcadeous" works.** It is the name already on the fascia, so typing it did
 nothing at all: no reward, no sign change, no explanation, and the step stuck forever.
 
 **The used market can now be a bad deal.** Sellers do not always mention everything — some listings
@@ -544,7 +544,7 @@ experience &mdash; and they work.
 ## What changed in 0.9.7
 
 - **String fix.** The demo notice named the wrong game and offered content this one does not have.
-  It now names Arcadius, and offers what Arcadius actually has
+  It now names Arcadeous, and offers what Arcadeous actually has
 
 ## What changed in 0.9.6
 
@@ -633,7 +633,7 @@ licensed audio, nothing that can get a stream muted.
 
 - **Six house stations** on the wall radio, in the 80s synth idiom the shop is set in: bright
   attract music, a warm floor bed, late-night synthwave with rain on it, and more
-- **Your own music always wins.** Drop files in `Music\Arcadius` and tune to them; the game's own
+- **Your own music always wins.** Drop files in `Music\Arcadeous` and tune to them; the game's own
   soundtrack stands down the moment your radio is on, and comes back when you switch it off
 - **A fader for each thing** — master, music, machines, and the arcade's own room noise — reachable
   from the main menu as well as the pause screen
