@@ -29,6 +29,32 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.27
+
+**The coin loop works end to end, every service door works the same way, and the game has its new name and icon.**
+
+- **Arcadeous, everywhere:** the title screen, menus and radio carry the new name, and your old save carries straight over.
+  The exe, the window and the taskbar show the new icon, a neon quarter with the Arcadeous A stamped in it
+- **Every door works the same way: open it, click to do the job, click to shut it.** Coin doors, monitors and the change
+  machine. The menu only opens the door; emptying the coins, pulling a dead part and fitting a new one are clicks on the
+  open machine, one job per click
+- **Quarters add up:** $1.00 in a cash box is 4 quarters in your pocket (it was paying 100). Cash boxes hold $625, so the
+  change machine runs dry, and gets refilled from the boxes, before a box can fill up and stop its machine
+- **Quarters no longer run out.** Customers used to change their whole wallet at the door and walk off with what they didn't
+  spend. Now they only take the quarters they play, and some bring their own quarters and spend those first
+- **Change machines from day one:** the licence is included and first in the build menu. $250 each, charged when you place
+  it (it was charging $2.50). The bill stacker holds $750. The first time a changer runs dry, the day pauses for a short
+  lesson on refilling it
+- **A change machine in a corner can be used.** You stand at its front, like every other machine
+- **Set a real price for a game:** the price list runs from FREE to $2.50 in quarters (it stopped at 5 cents) and marks the
+  new price straight away. A game set to a few cents in an older build moves up to the matching quarter price
+- **The pause menu pauses the game** and says PAUSED. Report a bug shows its message below the menu
+- **Delivery boxes pick up in one click** (they used to creep each time)
+- **The back room is rearranged:** supply shelves and the workbench along one wall, the bin across the aisle, the ordering
+  computer on the back wall. Whatever you stand nearest is what you use
+- Money shows once, in the top bar. "Diagnose a fault" no longer calls a machine dead before one is. The prize shelf is no
+  longer sold
+
 ## What changed in 0.11.26
 
 **Play it on a controller.** Arcadeous now supports gamepads natively, ahead of Steam Deck.
