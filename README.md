@@ -29,6 +29,16 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.28
+
+**Two fixes from testers, both on PC too.**
+
+- **Used cabinets get their own spot.** Every used machine was set down on the same spot, so a second one landed on top of
+  the first and looked like it had replaced it, and neither could be moved. Each used cabinet now gets a free spot of its own,
+  and MOVE works on it. Machines already stacked in your save can be moved apart.
+- **Esc cancels a move.** Moving a cabinet and pressing Esc opened the pause menu and left the cabinet in your hands. Now it
+  puts the cabinet back where it was and the game carries on.
+
 ## What changed in 0.11.27
 
 **The coin loop works end to end, every service door works the same way, and the game has its new name and icon.**
