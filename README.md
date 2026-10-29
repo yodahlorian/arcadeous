@@ -29,6 +29,13 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.33
+
+- **Your technician gets in through the front door.** Before you open for the day, the doors only swung for you, so a hired
+  technician walked into a shut door, and if you came up behind them it swung into them. The doors now open for anyone
+  walking through and stay open until they are clear. Nobody waiting near the door gets hit by it. (Thanks to the tester who
+  sent this with /bug.)
+
 ## What changed in 0.11.32
 
 - **The ticket machines are really here now.** 0.11.29 to 0.11.31 opened the redemption booth at level 10 but left every
