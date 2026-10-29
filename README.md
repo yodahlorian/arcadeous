@@ -29,6 +29,12 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.32
+
+- **The ticket machines are really here now.** 0.11.29 to 0.11.31 opened the redemption booth at level 10 but left every
+  ticket machine saying "COMING SOON!" on the licence page. They now unlock from level 10 (Drop Zone) to 18 (Coin Pusher), at
+  the new lower prices. (Thanks to the tester who sent this with /bug.)
+
 ## What changed in 0.11.31
 
 - **Ticket machines are priced to earn their keep.** They used to cost nearly three times a video cabinet and earn about the
