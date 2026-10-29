@@ -1,5 +1,5 @@
 {
- "retired": 5,
+ "retired": 6,
  "history": [
   {
    "tag": "v0.11.22-beta",
@@ -25,6 +25,11 @@
    "tag": "v0.11.27-beta",
    "downloads": 2,
    "retired": "2026-10-26 21:06:04"
+  },
+  {
+   "tag": "v0.11.28-beta",
+   "downloads": 1,
+   "retired": "2026-10-29 09:57:38"
   }
  ]
 }

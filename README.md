@@ -29,6 +29,26 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.29
+
+**The ticket tier opens.** From level 10 your arcade gets ticket machines, a redemption booth and the prize shelf.
+
+- **Ticket machines, one a level from 10 to 18.** Drop Zone comes first at level 10, then Tumbler, High Rise, High Striker and
+  The Claw, Gopher Bash, Buzzer Beater, Alley Roller and Coin Pusher. They're on the licence page now.
+- **Tickets come off a roll.** Every ticket a customer wins is torn off that machine's roll. When the lamp on the ticket door
+  turns amber, open the ticket door from the machine's menu and click to put a new roll on. An empty roll pays nobody, and
+  customers notice.
+- **Set each ticket machine's payout** from its menu. A stingy machine earns the same and puts people off.
+- **The redemption booth (level 11).** Customers who leave happy trade their tickets at the counter for a toy. Keep its
+  shelves stocked from the counter's menu: an empty booth sends people home disappointed.
+- **The prize shelf (level 15).** Pull a guaranteed new piece for your collection with tickets or cash, choose six for the
+  display case, and see what your toys are doing for the shop. Every piece you own gives a bonus: cheaper rent and power,
+  cheaper licences, more customers, fuller wallets, happier crowds, more celebrity visits and more used cabinets for sale.
+- **The Claw is stocked with the collection's toys.** When you win one yourself, it joins your collection.
+- **Your stockhand** now changes ticket rolls and restocks the booth and the claw.
+- **Pinball, the puck table, the rhythm pad and every ticket machine can be repaired by hand.** Their board is behind the
+  service panel, which now opens from the machine's menu. They no longer carry a picture tube they don't have.
+
 ## What changed in 0.11.28
 
 **Two fixes from testers, both on PC too.**
