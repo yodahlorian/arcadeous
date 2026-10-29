@@ -29,6 +29,12 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.35
+
+- **A cabinet stuck in a wall is moved out.** Shops saved before 0.11.34 could still hold a used cabinet set into the back-room
+  wall, where nobody could reach it. Load your game and it's moved to the nearest free spot on the floor, ready to use. Nothing
+  else moves. (Thanks to the tester who sent this with /bug.)
+
 ## What changed in 0.11.34
 
 - **Used cabinets never land inside a wall.** Once the walls filled up, a used cabinet could be set down in the corner by the
