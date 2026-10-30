@@ -29,6 +29,17 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.39
+
+- **Swapping buttons tells you what moved.** Swapping two buttons in Settings › Controller moves BOTH jobs, so swapping A
+  with B puts Back (and Pause) on A. The page now says exactly which button does what after a swap; Reset to default puts
+  everything back. (Thanks to the tester who sent this with /bug.)
+- **A remapped controller names the right buttons.** After you swapped buttons in Settings › Controller, a game's hints
+  could still name the old button (and on a Nintendo-style pad, A and B could come out swapped). Every prompt now names the
+  button you chose. (Thanks to the tester who sent this with /bug.)
+- **Cloud saves show your money right.** The cloud panel showed $72125 where it meant $721.25. It reads like the rest of
+  the game now.
+
 ## What changed in 0.11.38
 
 - **Cloud saves: your arcade on every device.** Main menu › CLOUD SAVES: type your email, then the 6-digit code we send.
