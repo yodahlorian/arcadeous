@@ -29,6 +29,13 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.41
+
+- **Only Menu pauses on a controller.** On the floor, B no longer opens the pause menu, so swapping A with B in Settings ›
+  Controller can never put Pause on A. The pause menu is on Menu, which no swap moves; B still cancels and closes menus.
+- **Racing cabinets stay solid up close.** Walking up to a cabinet with a steering wheel made its lower half vanish and
+  flicker. The seat, wheel, pedals and plate now stay drawn at any distance.
+
 ## What changed in 0.11.40
 
 - **Arcadeous has one way out.** Nothing on PC changes; this build fixes the Android Back gesture (see the phone notes).
