@@ -29,6 +29,11 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.43
+
+- **A controller asks before leaving a game.** Mid-round, B now asks first; press it again within two seconds to leave the
+  cabinet (the keyboard's Esc still leaves at once). The rest of this build is for phones.
+
 ## What changed in 0.11.42
 
 - **A red pad says why.** Placing or moving a machine on a red pad now names the reason — too close to a machine, keep the
