@@ -29,6 +29,10 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.40
+
+- **Arcadeous has one way out.** Nothing on PC changes; this build fixes the Android Back gesture (see the phone notes).
+
 ## What changed in 0.11.39
 
 - **Swapping buttons tells you what moved.** Swapping two buttons in Settings › Controller moves BOTH jobs, so swapping A
