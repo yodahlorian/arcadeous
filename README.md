@@ -29,6 +29,15 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.36
+
+- **Your wall design is on every wall.** Some walls kept the old colour when you picked a new wall design: the street wall, the
+  back room's walls, and the strip over its door. And a saved shop came back with the design on none of them until you changed
+  it again. Every wall now takes the design, and a loaded shop shows it straight away. (Thanks to the tester who sent this with
+  /bug.)
+- **Every game names the controls you're holding.** Game hints and messages, like Sky Lance's, now name a controller's buttons
+  when you play with one, and the keys when you use the keyboard.
+
 ## What changed in 0.11.35
 
 - **A cabinet stuck in a wall is moved out.** Shops saved before 0.11.34 could still hold a used cabinet set into the back-room
