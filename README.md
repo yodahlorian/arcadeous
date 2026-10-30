@@ -29,6 +29,13 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.42
+
+- **A red pad says why.** Placing or moving a machine on a red pad now names the reason — too close to a machine, keep the
+  doorway clear, or customers could not reach a machine past it — instead of "something is in the way".
+- **Change machines move again.** The change machine's menu has MOVE THE CHANGE MACHINE, like every cabinet's — the one you
+  inherit and any you buy.
+
 ## What changed in 0.11.41
 
 - **Only Menu pauses on a controller.** On the floor, B no longer opens the pause menu, so swapping A with B in Settings ›
