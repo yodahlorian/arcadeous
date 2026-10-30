@@ -29,6 +29,11 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.37
+
+- **Remap your controller.** Settings has a new Controller tab: press Change, then the button you want. The two buttons swap,
+  so nothing can ever end up unreachable. Every prompt shows your new layout.
+
 ## What changed in 0.11.36
 
 - **Your wall design is on every wall.** Some walls kept the old colour when you picked a new wall design: the street wall, the
