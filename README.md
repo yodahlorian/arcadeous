@@ -29,6 +29,13 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.45
+
+- **Your shop's name, in any colour.** The computer's Decor app has a new Shop name box: any colour for the name on the wall
+  inside and for the name over the front door, each on its own. Default puts the pink back.
+- **One press of Esc does one thing.** Closing a menu or cancelling a move no longer also opens the pause menu.
+- **Staff pay shows dollars and cents** ("$4.50/day", not "450/day").
+
 ## What changed in 0.11.44
 
 - Nothing changes on PC; this build is the Android controller fix (see the phone notes).
