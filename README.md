@@ -29,6 +29,11 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.47
+
+- **Your staff stay put while you play a cabinet.** They no longer walk out and back in through the front door when you
+  step away from a game.
+
 ## What changed in 0.11.46
 
 - **No more invisible wall after moving a machine.** Moving a machine could carry the shop floor's collision with it, leaving an
