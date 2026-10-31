@@ -29,6 +29,11 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.46
+
+- **No more invisible wall after moving a machine.** Moving a machine could carry the shop floor's collision with it, leaving an
+  invisible ledge across the shop until you restarted. The floor now stays put.
+
 ## What changed in 0.11.45
 
 - **Your shop's name, in any colour.** The computer's Decor app has a new Shop name box: any colour for the name on the wall
