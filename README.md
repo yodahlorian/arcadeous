@@ -29,6 +29,12 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.50
+
+- **Stools at the cocktail tables.** Customers now sit on a stool to play the cocktail-table machines instead of folding
+  over the glass. The stool takes up floor space: you can't set another machine down on it, and customers walk around it.
+- **Lighter on memory.** The shop no longer keeps its printed art loaded while you're playing a cabinet game.
+
 ## What changed in 0.11.47
 
 - **Your staff stay put while you play a cabinet.** They no longer walk out and back in through the front door when you
