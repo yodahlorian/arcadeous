@@ -29,6 +29,11 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.51
+
+- **Cocktail tables are back to how they were.** The stools in 0.11.50 went out before they were finished; they'll return
+  when they're ready.
+
 ## What changed in 0.11.50
 
 - **Stools at the cocktail tables.** Customers now sit on a stool to play the cocktail-table machines instead of folding
