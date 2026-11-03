@@ -29,6 +29,11 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.54
+
+- **Placing a machine no longer opens its neighbour's menu.** The click that sets a machine down (or finishes a move) only
+  places it now.
+
 ## What changed in 0.11.53
 
 - **Come and hang out.** The title screen and the pause menu now have a button to join our Discord
