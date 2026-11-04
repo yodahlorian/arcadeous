@@ -29,6 +29,11 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.55
+
+- **A machine you moved answers again.** After a move, the cabinet you moved could stop answering while the machine
+  beside it opened instead, until a restart. Each moved machine now answers from its own front.
+
 ## What changed in 0.11.54
 
 - **Placing a machine no longer opens its neighbour's menu.** The click that sets a machine down (or finishes a move) only
