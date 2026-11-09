@@ -29,6 +29,16 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.56
+
+- **Placing a machine no longer opens its neighbour's menu (again).** One more path where the click that set a machine down
+  also reached a cabinet nearby is closed: while you are placing or moving a machine, nothing else on the floor answers.
+- **Cloud saves upload when you leave the game.** Switching away or closing the game now really sends your latest save to
+  the cloud; before, that upload could fail without a word and only went up on the next save.
+- **Joysticks sit on their washers.** The stick on every joystick cabinet floated a few millimetres above its base. Fixed.
+- **Better bug reports.** Report a bug now includes a short record of the game's last session, so a crash can be traced
+  even after the game has been reopened.
+
 ## What changed in 0.11.55
 
 - **A machine you moved answers again.** After a move, the cabinet you moved could stop answering while the machine
