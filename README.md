@@ -29,6 +29,12 @@ no installer.
 - Separate volume faders for music, machines and the room itself
 - Rent falls due every 30 days. That is the only way to lose
 
+## What changed in 0.11.57
+
+- **Type with a controller.** Every text box (your arcade's name, order codes, the cloud save sign-in) opens an on-screen
+  keyboard you drive with the pad: A types, B deletes, Y is space, X is shift, MENU confirms, VIEW cancels. No keyboard or
+  mouse needed anywhere. On a Steam Deck, Steam's own keyboard opens.
+
 ## What changed in 0.11.56
 
 - **Placing a machine no longer opens its neighbour's menu (again).** One more path where the click that set a machine down
